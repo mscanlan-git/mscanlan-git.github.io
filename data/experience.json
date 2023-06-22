@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Administrative Assistant II",
+        "company": "Massachusetts Institute of Technology",
+        "summary": ["Providing administrative support to MIT's Laboratory for Computational Physiology (LCP) as well as assisting in production of PhysioNet, an online medical database maintained by LCP with over 60,000 registered users", "Contribute to web development for PhysioNet and Critical Data websites. Help provide UX design improvements","Process and credential applicants applying to utilize our privacy-protected datasets","File and complete travel reimbursements, manage lab spreadsheets, and purchasing/ordering supples."],
+        "range": "Dec 2022 - Present"
+    },
+    {
+        "role": "Operations Assistant",
+        "company": "Chateau Restaurant",
+        "summary": ["Budgeting food costs and general kitchen expenses for back of house operations", "Providing administrative support to the kitchen manager via Microsoft Office to create schedule sheets, menu changes, and manage delivery invoices", "Maintained office supplies, equipment upkeep, and storage leasing as well as purchasing new supples and equipment as needed", "Managed staff schedules for both front and back of house, set up employee meetings and took notes on employee questions and concerns as needed"],
+        "range": "Oct 2014 - Aug 2021"
+    }
+]
